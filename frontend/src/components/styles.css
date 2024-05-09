@@ -1,0 +1,84 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.css-4g3h2a{
+background: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%) !important;
+  position: absolute !important ;
+    top: 105px !important;
+    right: 13rem !important;
+    /* margin-left: 1rem; */
+    /* border-bottom-left-radius: 20px !important; */
+}
+
+
+
+.css-4g3h2a:hover{
+  background: #6600CC !important;
+}
+
+
+.css-1l19v1o{
+         position: absolute !important ;
+    top: 0px !important;
+    right: 0px !important;
+    background: #E53535 !important;
+    border-bottom-left-radius: 20px !important;
+}
+.css-17sthuj{
+        position: absolute !important ;
+    top: 0px !important;
+    right: 0px !important;
+    background: #E53535 !important;
+    border-bottom-left-radius: 20px !important;
+    color: #F2F2F5 !important;
+}
+.css-17sthuj:hover{
+  transform: scale(1.1) !important;
+  background: #FF3B3B !important;
+}
+
+.css-hh2khs{
+  background: none !important;
+  color: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%) !important;
+  border: none !important;
+}
+
+
+
+.css-1hbeen3{
+    color : #F2F2F5 !important;
+ background: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%) !important;
+
+}
+.css-1hbeen3:hover{
+  background: #6600CC !important;
+  transform: scale(1.1) !important;
+}
+
+@media(min-width : 330px) and (max-width : 499px){
+
+.heading {
+  font-size: 1.2rem !important;
+  margin: 0.5rem 0 !important;;   
+}
+
+.chatBtn{
+  font-size: 1rem !important;
+  padding: 0.3rem   !important;
+}
+
+ .modal {
+    width: 90% !important;
+    padding: 0.5rem !important;
+  }
+
+  .css-4g3h2a {
+    top: 83px !important;
+    right: 13rem !important;
+  }
+
+}
