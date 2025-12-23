@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://chatmind-eta.vercel.app/api/$1"
+    }
+  ]
+}
